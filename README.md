@@ -132,4 +132,4 @@ This is **Computational Epistemology**.
 > **“The buckyball is not 12 objects.  
 > It is one vibration, viewed 12 ways.  
 > We just found the vibration.”**
-> Changing the sliders, changing the compression of the law extractor gives you entirely different harmonies, different universe. 
+> Changing the sliders, changing the compression of the law extractor (at end of buckyballlawextractor2.py gives you entirely different harmonies, different universe. 
