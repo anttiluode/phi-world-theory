@@ -396,7 +396,7 @@ if __name__ == '__main__':
         N=64,
         topology='sphere',
         evolution_steps=1000,
-        compression_threshold=0.0001,
+        compression_threshold=0.01,
         save_plots=True
     )
     

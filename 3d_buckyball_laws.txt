@@ -1,0 +1,11 @@
+DISCOVERED LAWS - 3D BUCKYBALL PHYSICS
+============================================================
+
+System: MiniWoW 3D phi-world
+Generates: Buckyballs, crystal structures, stable patterns
+
+Training correlation: 0.9906
+
+1. Energy ~conserved (±3.0%)
+2. Isotropic (rotationally symmetric)
+3. Topology strongly affects dynamics
