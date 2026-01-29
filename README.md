@@ -1,5 +1,11 @@
 # Phi-World Theory: The Law Extractor
 
+(Lots of AI slop here, but some neat ideas originated from these codes. The 1000 number vector 
+mentioned here actually relates to my earlier entirely fictional scenario of universe spawned 
+from long vector, it seems to align somewhat with the best.py. Ie, the best.py universe could 
+be turned to a single long vector perhaps. But the concepts may be a bit hallucinated here and 
+some robot bolts are a bit short.) 
+
 This repository documents a transition from **Numerical Simulation → Artificial Intelligence → Pure Mathematical Discovery**.
 
 The core idea is simple but radical:
